@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Javad. I'm a mobile developer and love Technology.I started programming in 2017.
 <!--
 **javaddehban/javaddehban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=javaddehban)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=javaddehban)](https://github.com/javaddehban)
+
+
 
